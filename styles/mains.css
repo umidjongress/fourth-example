@@ -1,0 +1,601 @@
+
+
+
+.big-box{
+margin-left: auto;
+margin-right: auto;
+  background-color: #F6F6F9;
+}
+.container{
+  width: 1200px;
+}
+
+.ikkinchi-qism{
+  margin-top: 10px;
+}
+.rasm-qismi{
+  margin-top: 20px;
+}
+.finally{
+  justify-content: space-between;
+display: flex;
+}
+.birinchi-link{
+  text-decoration: none;
+}
+
+.box{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+}
+
+.sarlavha{
+  color: #285193;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  font-family: 'Rubik', sans-serif;
+}
+.qator-text{
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+}
+.birinchi-li{
+  background-color: #fffefe;
+  padding-left: 8px;
+ padding-right: 8px;
+ transition:  background-color .5s  ease;
+ border-radius: 5px;
+}
+.birinchi-li:hover{
+  background-color: rgb(247, 244, 235);
+}
+.birinchi-link{
+  text-decoration: none;
+}
+.dollar-qismi{
+  font-weight: bold;
+  color:#285193;
+}
+.ikkinchi-li{
+  margin-left: 20px;
+  font-family: 'Rubik', sans-serif;
+  margin-top: 10px;
+}
+.uchinchi-qism{
+  display: flex; 
+  list-style-type: none; 
+  margin-top: px;
+  padding-left: 15px;
+  border-radius: 5px;
+  padding-left: auto;
+  background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+  border-radius: 5px;
+  transition:  2s ease;
+}
+.uchinchi-qism:hover{
+  background: linear-gradient(90deg, rgba(30, 150, 200, .5) 15.07%, rgba(55, 174, 226, .5) 85.96%);
+}
+.rasm{
+  width: 20px;
+}
+.field{
+  padding-right: 15px;
+  margin-top: 10px;
+  font-family: Rubik;
+  transition:;
+}
+
+.link-qismi{
+  text-decoration: none;
+  color: #FFFFFF;
+  transition: color .5s ease;
+}
+.link-qismi:hover{
+  color: #285193;
+}
+
+
+
+/* .............................................................. */
+.articl{
+
+}
+.flex-bot{
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  margin-bottom: 18px;
+}
+.chart{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+   padding-bottom: 20px;
+}
+.boshqa-sahifa{
+  font-weight: bold;
+  text-decoration: none;
+  font-family: Rubik;
+  color: #515151;;
+}
+.boshqa-sahifa:hover{
+  color: grey;
+}
+.banner{
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 25px;
+}
+
+.pastgi-rasm{
+  width: 1100px;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.flex{
+margin-top: 20px;
+  background-color:   #F6F6F9;
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.store{
+}
+.bicycle{
+  list-style-type: none;
+   display: flex;
+  padding: 0;
+}
+
+.photo-corona{
+  margin-top: 10px; 
+  margin-left: 25px;
+}
+.stars{
+  margin-left: 15px;
+  font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+}
+hr{
+  border: none;
+  background-color: #EB5569;
+  width: 2px;
+  height: 74px;
+  margin-left: 41px;
+}
+.univers{
+  margin-left: 41px;
+}
+.img-mask{
+  margin-top: 18px;
+    margin-left: 25px;
+}
+.sonlar{
+  color: black;
+  font-family: Rubik;
+  font-family: 'Rubik', sans-serif;
+  font-weight:bold;
+font-size: 18px;
+line-height: 21px;
+}
+.information-1{
+
+ font-weight: bold;
+  font-family: 'Rubik',   sans-serif;
+}
+.span-mask{
+  margin-left: 25px;
+  color: #DB0000;
+}
+.ikkinchi-chiziq{
+  width: 2px;
+  height: 49px;
+  left: 814px;
+  top: 396px;
+  margin-top: 15px;
+  background: #F4CCD1;
+  
+}
+.photo-positive{
+  margin-top: 18px;
+    margin-left: 25px;
+  }
+  .positive{
+    margin-left: 25px;
+    color: #05B135;
+}
+.enjoy{
+  font-weight: bold;
+  font-family: 'Rubik',   sans-serif;
+}
+.ikkinchi-son{
+  color: black;
+  font-family: Rubik;
+  font-family: 'Rubik', sans-serif;
+  font-weight:bold;
+  font-size: 18px;
+  line-height: 21px;
+}
+.negative{
+  margin-left: 25px;
+  
+}
+.negative-photo{
+  margin-top: 18px;
+  margin-left: 25px;
+  
+}
+.report{
+  
+  font-weight: bold;
+  font-family: 'Rubik',   sans-serif;
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+.float{
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ancrous{
+  width: 350px;
+  margin-left;: 10px
+}
+.songi-yangiliklar{
+  font-family: 'Rubik',   sans-serif;
+  margin: 0;
+}
+
+.clock{
+  font-family: 'Rubik',   sans-serif;
+  color: #6B6D97;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.yellow-chart{
+  width: 1100px;
+  margin-left:auto ;
+  margin-right: auto;
+  background: rgba(239, 186, 84, 0.18);
+border-radius: 5px;
+padding:7px ;
+}
+.yellow-ul{
+  display: flex;
+  padding: 0;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.img-bell{
+  margin-left: 25px;
+  margin-top: 7px;
+}
+.yellow-ikkinchi-li{
+  margin-right: 320px;
+}
+.yelllow-uchinchi-li{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: ;
+  font-family: 'Rubik',   sans-serif;
+  background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+border-radius: 5px;
+}
+.text-top{
+  font-family: 'Rubik',   sans-serif;
+  font-weight: bold;
+
+}
+.connect{
+  text-decoration: none;
+  color: white;
+}
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.content{
+  /* background-color: #eeecec; */
+  margin-bottom: 70px;
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  display: flex;
+}
+.shopping{
+  display: flex;
+  margin-top: 19px;
+  width: 750px;
+}
+.second-article{
+  font-family: 'Rubik',   sans-serif;
+}
+.worse{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-left: 10px;
+}
+.popularniy{
+  margin-top: 18px;
+}
+.first-text{
+  font-family: 'Rubik',   sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+color: #434343;
+
+}
+.creatur{
+  display: inline;
+  font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #7688A4;
+
+}
+
+.vertical-img{
+  transition:  box-shadow .5s ease;
+  
+} 
+
+.information {
+  font-family: 'Rubik',   sans-serif;
+  transition:  box-shadow .5s ease;
+  text-decoration: none ;
+  color: #202020;
+  font-weight: bold;
+  transition: box-shadow color 5s ease ;
+}
+.information:hover {
+  color: grey;
+}
+.information:hover .vertical-img{
+  box-shadow: 5px 5px 10px rgba(17, 16, 16, 0.5);
+}
+.magazine{
+  background: #F6F6F9;
+  height: 585px;
+
+}
+
+.left-chart{
+  width: 250px;
+height: 4px;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+background: #aaaaaa;
+}
+
+.asleep{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-family: 'Rubik',   sans-serif;
+  margin-left: 10px;
+  margin: 0;
+  padding-left: 25px;
+  padding-top: 5px;
+}
+
+.little-horizont{
+  margin-top: 10px;
+margin-bottom: 10px;
+width: 300px;
+background-color: #E4E4E4;
+height: 4px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.information-left{
+  font-family: 'Rubik',   sans-serif;
+  transition:  box-shadow .5s ease;
+  text-decoration: none ;
+  color: #202020;
+  font-weight: bold;
+}
+.gorizont{
+  width: 20px;
+}
+.photo-cosmos{
+  width: 350px;
+  height: 468px;
+  margin-top: 50px;
+}
+
+.to-join{
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Rubik',   sans-serif;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #285193;
+  font-weight: bold;
+  border-radius: 3px;
+  line-height: 4;
+  margin-left:300px;
+  transition: color .5s ease,
+  background-color 1s ease ;
+}
+.to-join:hover{
+  color: #285193;
+  background-color: lightskyblue;
+}
+
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+.bed{
+  align-items: center;
+  
+background: #F6F6F9;
+border-radius: 5px;
+margin-bottom: 50px;
+width: 1100px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+}
+.stand{
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+.img-iphone{
+
+
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.styl-store{
+  margin-top: 80px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+
+.all-news{
+  margin-right: 10px;
+  font-size: 22px;
+  font-family: 'Rubik',   sans-serif;
+  font-weight: bold;
+  margin-top: 50px;
+  color: #295093;
+}
+.namangan{
+  font-family: 'Rubik',   sans-serif;
+  font-weight: bold;
+
+  margin-right: 10px;
+}
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+.demo-finally{
+height: 300px;
+  background-color: #295093;
+}
+
+.door{
+  /* height: 40px; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+}
+.round{
+  margin-top: 30px;
+  align-items: center;
+  padding: 7px;
+  background-color: #133C82;
+  border-radius: 5px;
+  transition: background-color  ease ;
+}
+.round:hover{
+  background-color: rgb(3, 64, 102);
+}
+.squer{
+  color: white;
+  font-family: 'Rubik',   sans-serif;
+  text-decoration: none ;
+}
+.info{
+  font-size: 13px;
+  font-family: 'Rubik',   sans-serif;
+  color: white;
+}
+
+.magic-table{
+  padding: 0;
+  margin: 0;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+list-style-type: none;
+}
+.podpis{
+  margin-top: 30px;
+
+}
+.writing{
+  padding: 6px;
+  align-items: center;
+  margin-top: 30px;
+  background: #FFFFFF;
+border-radius: 5px; 
+}
+.writing:hover{
+  background: linear-gradient(to left, rgb(189, 189, 189),rgb(184, 183, 183), white);
+}
+
+.wrote{
+  padding-left: 5px;
+  font-family: 'Rubik',   sans-serif;
+  text-decoration: none;
+  
+}
+.in-room{
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.horizont-line{
+  margin-top: 30px;
+  height: 3px;
+  background: #133C82;;
+  max-width: 100%;
+}
+
+.remember{
+color: white;
+  font-family: 'Rubik',   sans-serif;
+}
+.flowers{
+  justify-content: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+  display: flex;
+}
+.hot{
+  margin-left: 90px;
+}
+
+.rain{
+  color: white;
+  text-decoration: none;
+  font-family: 'Rubik',   sans-serif;
+
+}
+.rain:hover{
+  color: orange;
+  text-decoration: underline;
+}
